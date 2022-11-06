@@ -7,3 +7,5 @@
 Программа запускается в любой среде, которая поддерживает python. Нужно открывать файл lab4.py. После запуска, нужно следовать инструкции.
 # Тесты
 ![image](https://user-images.githubusercontent.com/114610696/200157465-9e7e730b-e184-48dc-8bc0-ae88e1abbecc.png)
+![image](https://user-images.githubusercontent.com/114610696/200157626-dc8040e5-f472-4b27-9024-3fb74245cbb5.png)
+![image](https://user-images.githubusercontent.com/114610696/200157615-0309499a-49e3-4c5f-bbbe-3fc7dfab3b1e.png)
